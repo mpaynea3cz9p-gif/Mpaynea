@@ -1,2 +1,4 @@
 # Mpaynea
 Use 
+pkg update && pkg upgrade -y
+pkg install python
